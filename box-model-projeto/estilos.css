@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin:0;
+    background-color: aliceblue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    width: 300px;
+}
+
+.card{
+    padding:10px;
+    background-color: #dedede;
+    width: max-content;
+    border: 10px groove #cc66ff;
+    border-radius: 3px;
+    margin: 30px;
+    display: inline-block;
+}
+
+.text{
+    width: max-content;
+    text-align: left;
+    line-height: 1.5;
+    width: 300px    ;
+}
